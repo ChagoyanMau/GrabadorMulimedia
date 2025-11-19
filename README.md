@@ -13,4 +13,5 @@ Esta aplicacion es para **Android** funcina grabando ya sea:
 4. Diana
 
 | id | composable |
+|----------|------|
 | 1  | MainView   |
