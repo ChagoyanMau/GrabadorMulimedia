@@ -12,4 +12,5 @@ Esta aplicacion es para **Android** funcina grabando ya sea:
 3. *Elil*
 4. Diana
 
-| id | composa
+| id | composable |
+| 1  | MainView   |
